@@ -1,0 +1,15 @@
+track
+
+namaaz
+quran
+jikr
+walk
+tables(vitamins)
+
+---
+add
+list
+---
+min
+namaaz
+walk
